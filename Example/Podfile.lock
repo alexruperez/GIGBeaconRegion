@@ -1,14 +1,14 @@
 PODS:
-  - GIGBeaconRegion (0.1.0)
+  - GIGBeaconRegion (1.0.1)
 
 DEPENDENCIES:
   - GIGBeaconRegion (from `../`)
 
 EXTERNAL SOURCES:
   GIGBeaconRegion:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  GIGBeaconRegion: 535e839a582d0455cb5739d6c616347b794c98b6
+  GIGBeaconRegion: 44499565b3c68f5e1a5b0536471315f491f99d78
 
-COCOAPODS: 0.34.4
+COCOAPODS: 0.39.0

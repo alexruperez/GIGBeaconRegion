@@ -1,7 +1,7 @@
 # GIGBeaconRegion
 
-[![Twitter](http://img.shields.io/badge/contact-@gigigoapps-blue.svg?style=flat)](http://twitter.com/gigigoapps)
-[![GitHub Issues](http://img.shields.io/github/issues/gigigoapps/GIGBeaconRegion.svg?style=flat)](http://github.com/gigigoapps/GIGBeaconRegion/issues)
+[![Twitter](http://img.shields.io/badge/contact-@alexruperez-blue.svg?style=flat)](http://twitter.com/alexruperez)
+[![GitHub Issues](http://img.shields.io/github/issues/alexruperez/GIGBeaconRegion.svg?style=flat)](http://github.com/alexruperez/GIGBeaconRegion/issues)
 [![Version](https://img.shields.io/cocoapods/v/GIGBeaconRegion.svg?style=flat)](http://cocoadocs.org/docsets/GIGBeaconRegion)
 [![License](https://img.shields.io/cocoapods/l/GIGBeaconRegion.svg?style=flat)](http://cocoadocs.org/docsets/GIGBeaconRegion)
 [![Platform](https://img.shields.io/cocoapods/p/GIGBeaconRegion.svg?style=flat)](http://cocoadocs.org/docsets/GIGBeaconRegion)

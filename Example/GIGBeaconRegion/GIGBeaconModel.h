@@ -3,7 +3,7 @@
 //  GIGBeaconRegion
 //
 //  Created by Alejandro Rupérez on 27/11/14.
-//  Copyright (c) 2014 Gigigo. All rights reserved.
+//  Copyright (c) 2016 alexruperez. All rights reserved.
 //
 
 #import <CoreLocation/CoreLocation.h>

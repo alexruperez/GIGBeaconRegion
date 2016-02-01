@@ -180,6 +180,7 @@
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
 				416E7CA4BF4625BA021AD7FD /* Copy Pods Resources */,
+				FF0FC6BFE7CC709D1F19A8BB /* Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -260,6 +261,21 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GIGBeaconRegion/Pods-GIGBeaconRegion-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FF0FC6BFE7CC709D1F19A8BB /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GIGBeaconRegion/Pods-GIGBeaconRegion-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
